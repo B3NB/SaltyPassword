@@ -19,3 +19,6 @@ dotnet restore
 dotnet publish -f netcoreapp1.1 -c Release -r win10-x64
 ```
 The program should be located in _..\bin\Release\netcoreapp1.1\win10-x64\_.
+
+## Usage
+The program has two modes `SaltyPassword make <FILE>` and `SaltyPassword test <FILE>`. Substitute `<FILE>` with the file where the hash and salt for the password should be stored. After this the program will ask you for your password.
