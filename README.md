@@ -1,5 +1,5 @@
 # SaltyPassword 🤔💭
-No one is as bad at remembering things, especially passwords, as humans, well at least this applies to my memory. That's why I made this command line program in C# to help remember long, new passwords.
+Passwords are generally hard to get stuck in your brain. That's why I made this command line program in C# to help remember long, new passwords.
 
 Secure passwords are really important. So the way we choose them also becomes important. The best way I found to make new passwords, is using the method described [here](https://www.eff.org/dice) by the EFF. Though sometimes causes me to mix up the words in my brain and I then need to check if I can still remember the password before I really use it.
 
